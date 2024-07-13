@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: nolfg
+## Author: Shagu(Forked and edited by buhfur AKA "Thugzul")
+## Notes: removes annoying messages
+## Version: 1.0
+nolfg.lua

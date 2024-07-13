@@ -15,6 +15,9 @@ local blocks = {
   { "gold", "account", "nost" },
   { "buy", "gold", "need", "mana" },
   { "mooo" },
+  { "LFG" },
+  {"LF"},
+
 }
 
 local prepare = function(msg)
